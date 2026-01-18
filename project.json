@@ -1,0 +1,41 @@
+{
+  "project": [
+
+    {
+      "name": "Privateye",
+      "description": "Extension to hide all input fields on a page.",
+      "url": "https://chromewebstore.google.com/detail/privateye/gmbfklmpmcacbjokhdkfffnbgkdkocmi",
+      "image": "eye"
+    },
+
+    {
+      "name": "Easy2Markdown",
+      "description": "Easy2Markdown extension — transforms content into Markdown.",
+      "url": "https://chromewebstore.google.com/detail/easy2markdown/jphbjaikfhfnapnahdciiaeooaabjbid",
+      "image": "md"
+    },
+            {
+      "name": "CodeQuick",
+      "description": "Extension to quickly test HTML and CSS.",
+      "url": "https://chromewebstore.google.com/detail/codequick/jhagbagdnbanbiadpfdampfebfdacafn",
+      "image": "code",
+      "badge": "updated"
+
+    },
+        {
+      "name": "Remove All CSS",
+      "description": "Extension that removes all CSS from a page.",
+      "url": "https://chromewebstore.google.com/detail/remove-all-css/ohjeefjccmpfakjehbdclamnhpipnhcj",
+      "image": "css3",
+      "stats": ["+200 uers", "5 stars"],
+      "badge": "popular"
+    },
+    {
+      "name": "Click CSS Remover",
+      "description": "Extension that removes CSS on click / clears page styling.",
+      "url": "https://chromewebstore.google.com/detail/click-css-remover/gnafbfeadnipjoflamjkajkpmihajjai",
+      "image": "css3",
+      "badge": "new"
+    }
+  ]
+}
